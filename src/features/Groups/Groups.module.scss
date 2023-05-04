@@ -1,0 +1,17 @@
+.container {
+  height: 100%;
+  padding: 20px;
+  min-width: 200px;
+}
+
+.groups {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.groupList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

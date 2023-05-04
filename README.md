@@ -1,2 +1,4 @@
-# todo-list-for-junior
-test project for training a colleague
+# todo-list
+
+- npm i
+- npm run dev

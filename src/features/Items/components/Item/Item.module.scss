@@ -1,0 +1,15 @@
+.item {
+  display: flex;
+  align-items: center;
+  min-width: 195px;
+  border-radius: 5px;
+  padding: 5px;
+
+  &:hover {
+    background-color: var(--hover-color);
+  }
+}
+
+.itemText {
+  cursor: pointer;
+}
